@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MadL11fe&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadL11fe&langs_count=8&theme=radical" width = 400/>
